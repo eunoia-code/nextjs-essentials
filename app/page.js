@@ -17,10 +17,6 @@ export default function Home() {
           priority
         />
       </div>
-
-      <p>
-        <Link href="/about">About Us</Link>
-      </p>
     </main>
   );
 }
